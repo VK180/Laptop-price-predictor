@@ -18,7 +18,7 @@ The project follows standard ML pipeline steps:
 1. **Data Cleaning & Preprocessing**
 2. **Exploratory Data Analysis (EDA)**
 3. **Label Encoding / One-Hot Encoding**
-4. **Model Training** using `Random Forest`, `Linear Regression`, and `XGBoost`
+4. **Model Training** using ML Algorithms like `Random Forest`, `Linear Regression`, `XGBoost` etc.
 5. **Hyperparameter Tuning** for best performance
 
 ## 🛠 Tech Stack
