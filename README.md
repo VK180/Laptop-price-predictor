@@ -1,8 +1,8 @@
-# 💻 Laptop Price Predictor
+#  Laptop Price Predictor
 
 This project aims to build a machine learning model that predicts the price of a laptop based on its features such as RAM, CPU, GPU, brand, screen resolution, and more.
 
-## 📊 Dataset
+##  Dataset
 The dataset includes specifications of various laptops along with their prices. Key features include:
 - Brand
 - Processor (CPU)
@@ -13,7 +13,7 @@ The dataset includes specifications of various laptops along with their prices. 
 - Operating System
 - Touchscreen and IPS display info
 
-## 🧠 Model Development
+##  Model Development
 The project follows standard ML pipeline steps:
 1. **Data Cleaning & Preprocessing**
 2. **Exploratory Data Analysis (EDA)**
@@ -21,14 +21,14 @@ The project follows standard ML pipeline steps:
 4. **Model Training** using ML Algorithms like `Random Forest`, `Linear Regression`, `XGBoost` etc.
 5. **Hyperparameter Tuning** for best performance
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
 
-## 📈 Results
+##  Results
 Achieved good prediction accuracy using ensemble models with appropriate feature engineering and tuning.
 
 
